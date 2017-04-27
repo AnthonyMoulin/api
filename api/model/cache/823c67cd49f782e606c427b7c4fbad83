@@ -1,0 +1,29 @@
+{
+	"name" : "CodeInformations",
+	"authors" : [{
+			"name" : "Yo69008",
+			"email" : "yoann.defarge@free.fr"
+		}
+	],
+	"keywords": ["api", "package-description"],
+	"require_dev" : {
+		"psr/log" : "1.0.2",
+		"phpunit/phpunit" : "6.1"
+	},
+	"description" : "simple api for take package's informations",
+	"version" : "1.0.1"	
+	"autoload" : {
+		"psr-4" : {
+			"FormationView\\MVC\\" : "lib/view/src/mvc/",
+			"FindCode\\Test\\" : "test/",
+			"FindCode\\Api\\Controller\\" : "api/controller/",
+			"FindCode\\Api\\Model\\" : "api/model/",
+			"FindCode\\Api\\View\\" : "api/view/",
+			"Lib\\Manager\\" : "lib/manager/"
+		}
+	}
+	"repository" : {
+    "type" : "git",
+	"url" : "https://github.com/Yo69008/CodeInformations"
+}
+}

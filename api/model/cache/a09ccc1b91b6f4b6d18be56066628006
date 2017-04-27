@@ -1,0 +1,11 @@
+{
+  "name": "movepopup",
+  "version": "0.0.1",
+  "description": "popup component.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "sebvrg",
+  "license": "MIT"
+}

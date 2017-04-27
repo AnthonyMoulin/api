@@ -1,0 +1,25 @@
+{
+	"name" : "m2i/formation-php",
+	"authors" : [{
+			"name" : "John Smith",
+			"email" : "john@example.com"
+		}
+	],
+	"require" : {
+		"psr/log" : "1.0.2",
+		"phpunit/phpunit" : "6.1"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"Lib\\Manager\\" : "library/manager/",
+			"FindCode\\Api\\Controller\\" : "api/controller/",
+			"FindCode\\Api\\Model\\" : "api/model/",
+			"FindCode\\Test\\" : "test/",
+			"FindCode\\Api\\View\\" : "api/view/",
+			"FindCode\\Controller\\" : "app/controller/",
+			"FindCode\\Model\\" : "app/model/",
+			"FindCode\\View\\" : "app/view/",
+			"Formation\\MVC\\" : "cours/poo/mvc/"
+		}
+	}
+}

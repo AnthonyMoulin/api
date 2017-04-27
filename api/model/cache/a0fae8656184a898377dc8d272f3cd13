@@ -1,0 +1,21 @@
+{
+  "name": "appear-js",
+  "version": "0.0.1",
+  "description": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "author": "AnthonyMoulin",
+  "license": "MIT",
+    "devDependencies": {
+    "mocha": "3.2.0",
+    "chai": "3.5.0",
+    "jsdom": "9.12.0"
+  },
+  "repository" : {
+    "type" : "git",
+	"url" : "https://github.com/AnthonyMoulin/appear"
+  }
+}
+ 
