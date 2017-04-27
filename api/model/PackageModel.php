@@ -115,7 +115,8 @@ class PackageModel extends AbstractSubject implements
 				
 			}
 			
-			else{$ping = False;
+			else{
+				$ping = False;
 			}
 			
 // 		}

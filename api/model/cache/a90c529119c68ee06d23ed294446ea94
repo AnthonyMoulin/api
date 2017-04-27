@@ -1,6 +1,7 @@
 {
   "name": "minpopup",
-  "version": "1.0.4",
+  "version": "1.0.6",
+  "homepage": "https://seeren.github.io/minpopup/",
   "description": "A minimal popup",
   "keywords": ["popup", "prompt", "alert"],
   "main": "index.js",

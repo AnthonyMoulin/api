@@ -125,7 +125,7 @@
 
 </head>
 
-<body itemscope itemtype="http://schema.org/WebSite" data-crumb="ksygihV2J4CmWNTYK6Z0i-d2wc6zHFe0ZRArh_S5IP6">
+<body itemscope itemtype="http://schema.org/WebSite" data-crumb="Kmz6ozC9r02gb41NYtYUVJXvy9w2agrrE0otC0-wSTX">
   <meta itemprop="url" content="https://www.npmjs.com/">
 
 
@@ -222,7 +222,7 @@
     <input type="hidden" name="name" value="appear-js">
     <input id="star-input" type="checkbox" name="isStarred" value="true" >
     <label for="star-input" class="icon-star"></label>
-      <input type="hidden" name="crumb" value="ksygihV2J4CmWNTYK6Z0i-d2wc6zHFe0ZRArh_S5IP6"/>
+      <input type="hidden" name="crumb" value="Kmz6ozC9r02gb41NYtYUVJXvy9w2agrrE0otC0-wSTX"/>
   </form>
 
   <div id="readme" class="markdown">
@@ -259,10 +259,10 @@ Pop up qui ne bloque pas la page</p>
 
 <div class="sidebar">
 
-    <div class="promotion" data-promotion-id="725" data-promotion-spot="packagePage"><div class="marketing">
-<h3 id="marketing-texthed"><a href="https://www.npmjs.com/features?utm_source=house&utm_medium=package%20page&utm_term=Unleash%20awesomeness&utm_content=hed&utm_campaign=orgs#features-plans-and-enterprise-pane" title="Private Packages and Organizations">Unleash awesomeness</a></h3>
+    <div class="promotion" data-promotion-id="724" data-promotion-spot="packagePage"><div class="marketing">
+<h3 id="marketing-texthed"><a href="https://www.npmjs.com/features?utm_source=house&utm_medium=package%20page&utm_term=Manage%20permissions%20for%20the%20whole%20team&utm_content=hed&utm_campaign=orgs#features-plans-and-enterprise-pane" title="Private Packages and Organizations">Manage permissions for the whole team</a></h3>
 
-<p>Private packages, team management tools, and powerful integrations. <a style="white-space: normal;" href="https://www.npmjs.com/features?utm_source=house&utm_medium=package%20page&utm_term=unleash%20awesomeness&utm_content=body&utm_campaign=orgs#features-plans-and-enterprise-pane" title="Private Packages and Organizations">Get started with npm Orgs</a></p></div></div>
+<p>Manage developer teams with varying permissions and multiple projects.  <a style="white-space: normal;" href="https://www.npmjs.com/features?utm_source=house&utm_medium=package%20page&utm_term=Manage%20permissions%20for%20the%20whole%20team&utm_content=body&utm_campaign=orgs#features-plans-and-enterprise-pane" title="Private Packages and Organizations">Learn more about Private Packages and Organizations&hellip;</a></p></div></div>
 
     <div class="autoselect-wrapper npm-install icon-download">
       <input type="text" value="npm install appear-js" readonly>
@@ -322,15 +322,15 @@ Pop up qui ne bloque pas la page</p>
     <ul class="box">
 
         <li>
-          <strong class="pretty-number daily-downloads">0</strong>
+          <strong class="pretty-number daily-downloads">25</strong>
           downloads in the last day
         </li>
         <li>
-          <strong class="pretty-number weekly-downloads">0</strong>
+          <strong class="pretty-number weekly-downloads">25</strong>
           downloads in the last week
         </li>
         <li>
-          <strong class="pretty-number monthly-downloads">0</strong>
+          <strong class="pretty-number monthly-downloads">25</strong>
           downloads in the last month
         </li>
 
@@ -445,4 +445,4 @@ Pop up qui ne bloque pas la page</p>
 </body>
 </html>
 
-<!-- pid&#x3D;15135 de2155967ff4d6f1b24736652257aff5ecb9805c https://www.npmjs.com www-18-west.internal.npmjs.com  -->
+<!-- pid&#x3D;26750 a52ec04e236e10222607bfc3ed1c47e50fade3cc https://www.npmjs.com www-18-west.internal.npmjs.com  -->
