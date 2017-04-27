@@ -44,11 +44,9 @@ abstract class PackageControllerInterfaceTest extends TestCase
 	 * @runInSeparateProcess
 	 */
 	public function testExecute()
-	
 	{
 		$mock = $this->getPackageControllerInterface();
 		$output = $mock->execute();
-		var_dump($output);
 		$this->assertTrue (
 				is_string($output)
 		);
