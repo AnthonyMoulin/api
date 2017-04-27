@@ -23,7 +23,7 @@
     "devDependencies": [],
     "version": [],
     "license": "",
-    "author": "John Smith"
+    "author": "AnthonyMoulin"
 }
 
 
